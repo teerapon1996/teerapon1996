@@ -5,7 +5,7 @@
 - Django_Landing_Page
 - Web_Scraping
 
-My Contact
+Contact
 
 - Facebook : https://www.facebook.com/Teerapon.ms/
 - Email : taeyteerapon@gmail.com
